@@ -24,9 +24,8 @@ h1{
 }
 
 .btn-primary:hover{
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 4px;
+  background-color: #ad3100;
+  border-color: #ad3100;
 }
 
 .btn-xl{
